@@ -1,2 +1,12 @@
-# sistema-gerenciamento-tarefas
-Este repositório terá código-fonte em C (main.c), contendo um arquivo README.md que terá: (Instrução para compilar e executar o programa. Explicação breve do que o programa faz.) haverá O arquivo tarefas.txt gerado pelo programa. Garantido que os commits sejam bem documentados e demonstrem a evolução a evolução do desenvolvimento.
+Objetivo Geral do Código
+O programa é um Sistema de Gerenciamento de Tarefas, que permite ao usuário realizar operações básicas como:
+
+Cadastrar tarefas
+Listar todas as tarefas
+Editar tarefas específicas
+Excluir tarefas
+Salvar as tarefas em um arquivo de texto
+Sair do sistema
+
+Tudo isso é feito usando vetores multidimensionais para armazenar as tarefas em memória durante a execução do programa.
+
